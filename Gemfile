@@ -28,6 +28,8 @@ gem 'spring',        group: :development
 
 gem 'rest-client'
 
+gem 'devise'
+
 group :test, :development do
   gem 'dotenv-rails'
   gem 'rspec-rails'
